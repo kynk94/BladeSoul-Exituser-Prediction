@@ -1,0 +1,11 @@
+# File
+*.log
+*.bak
+*.pdf
+*.csv
+*.zip
+
+# Directory
+.idea/
+.ipynb_checkpoints/
+__pycache__/
